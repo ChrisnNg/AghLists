@@ -1,3 +1,4 @@
-@@||https://www.shangri-la.com^
-@@||https://www.gtales.top^
-@@||https://comix.to^
+# Place at IP/#custom_rules (Filter>Custom filtering rules)
+@@||shangri-la.com^
+@@||gtales.top^
+@@||comix.to^
